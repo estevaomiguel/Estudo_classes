@@ -23,7 +23,7 @@ class BankAccount:
 
     @email.setter
     def email(self, new_email):
-        name = new_email.split("@")
+        name = new_email.split("@6")
 
 
 
